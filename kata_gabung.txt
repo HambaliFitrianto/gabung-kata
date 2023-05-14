@@ -1,3 +1,4 @@
-dataran tinggi, dataran tinggi
-rumah sakit, rumah-sakit
-gunung berapi, gunung-berapi
+dataran tinggi, dataran_tinggi
+rumah sakit, rumah_sakit
+pantai indah, pantai_indah
+gunung api, gunung_api
