@@ -1,4 +1,4 @@
-rumah sakit,rumah_sakit
-dataran tinggi,dataran_tinggi
-luar biasa,luar_biasa
-luarbiasa,luar_biasa
+rumah sakit,rumah sakit
+dataran tinggi,dataran tinggi
+luar biasa,luar biasa
+jawa tengah, jawa tengah
