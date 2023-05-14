@@ -1,3 +1,4 @@
 rumah sakit,rumah_sakit
 dataran tinggi,dataran_tinggi
 luar biasa,luar_biasa
+luarbiasa,luar_biasa
